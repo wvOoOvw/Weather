@@ -2,6 +2,10 @@
 
 此接口有跨域安全限制，请在浏览器中打开CORS ALLOW插件后，访问当前项目的PAGE网站
 
+在线网站预览：
+
+[访问网站](https://wvooovw.github.io/Weather/build/)
+
 效果图：
 
 ![示例图片](https://wvooovw.github.io/Weather/public/result.png)
